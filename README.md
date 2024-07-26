@@ -13,22 +13,22 @@ __cole nussbaumer knaflic__
 ## Sumario
 
 - Capítulo 01
-  - La importancia del contexto 
+  - ___La importancia del contexto___
 - Capítulo 02
-  - Elegiendo un elemento visual adecuado 
+  - ___Elegiendo un elemento visual adecuado___
 - Capítulo 03
-  - El desorden es tu enemigo 
+  - ___El desorden es tu enemigo___
 - Capítulo 04
-  - Guía la atención de tu público 
+  - ___Guía la atención de tu público___
 - Capítulo 05
-  - Piensa como un diseñador 
+  - ___Piensa como un diseñador___
 - Capítulo 06
-  - Desagregando modelos de visualización
+  - ___Desagregando modelos de visualización___
 - Capítulo 07
-  -  Lecciones sobre storytelling
+  - ___Lecciones sobre storytelling___
 - Capítulo 08
-  - Haciendo una retrospectiva 
+  - ___Haciendo una retrospectiva___
 - Capítulo 09
-  - Casos de estudio 
+  - ___Casos de estudio___
 - Capítulo 10
-  - Reflexiones finales 
+  - ___Reflexiones finales___
