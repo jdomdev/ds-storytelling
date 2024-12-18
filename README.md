@@ -1,6 +1,6 @@
 # Storytelling con Datos
 
-<p>Presentaciones de los capítulos por pares del libro:</p>
+<p>Presentaciones en formato pdf acerca del Storytelling en ciencia de datos, realizadas por pares y basadas en los capítulos del libro:</p>
 
 
 __"storytelling with data"__
